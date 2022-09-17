@@ -172,3 +172,4 @@ git rm -rf file-name
 git branch
 git branch --list
 ```
+# HowTo
